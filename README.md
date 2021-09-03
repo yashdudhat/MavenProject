@@ -2,7 +2,7 @@
 
 Overview 
 
-In this Project I have developed simple automation framework for login page of scotia bank using. Using Maven and TestNG which will allow user to generate extent report.
+In this Project I have developed simple automation framework for login page of scotia bank using Maven and TestNG which will allow user to generate extent report.
 Extent report will allow user to generate test report in html format using useful visual representation like pie chart.
 
 Technologies used : Selenium, Java, TestNG, Maven,
